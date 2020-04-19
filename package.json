@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rafaeljk84/robots_fdesc/issues"
   },
-  "homepage": "https://github.com/rafaeljk84/robots_fdesc#readme"
+  "homepage": "https://github.com/rafaeljk84/robots_fdesc#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
