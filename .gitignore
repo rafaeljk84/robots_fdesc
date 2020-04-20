@@ -72,3 +72,6 @@ content/*.mov
 Adobe After Effects Auto-Save
 template.aep Logs
 .DS_Store
+
+# support text
+*.txt
